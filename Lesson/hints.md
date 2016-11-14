@@ -1,6 +1,6 @@
-# Hints for Exercise 10
+# Hints for Exercise 11
 ## Contents
-- [General hints for Exercise 10](#general-hints)
+- [General hints for Exercise 11](#general-hints)
 - [Problem 1 hints](#problem-1)
 - [Problem 2 hints](#problem-2)
 
