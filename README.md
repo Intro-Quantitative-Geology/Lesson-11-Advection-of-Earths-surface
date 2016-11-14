@@ -1,14 +1,14 @@
 # Lesson 11: Advection of Earth's surface
 This week we encounter our second common geoscience equation, the advection equation.
-Similar to last week, we will start with a [short lecture](Lesson/) about the advection equation and its application to modelling river erosion.
-There are also [some notes](Lesson/) posted for how to solve the advection-diffusion equation.
+Similar to last week, we will start with a [short lecture](Lesson/Advection-of-the-Earths-surface.pdf) about the advection equation and its application to modelling river erosion.
+There are also [some notes](Lesson/Solving-the-advection-diffusion-equation.pdf) posted for how to solve the advection-diffusion equation.
 These are not required reading, but may be of interest for the exercise this week.
 As usual we will finish with the [exercise for this week]().
 
 ## Lesson overview
 
-1. [Lecture slides on Advection of the Earth's surface](Lesson/)
-2. [Notes on solving the advection-diffusion equation](Lesson/)
+1. [Lecture slides on Advection of the Earth's surface](Lesson/Advection-of-the-Earths-surface.pdf)
+2. [Notes on solving the advection-diffusion equation](Lesson/Solving-the-advection-diffusion-equation.pdf)
 3. [Connecting to the cloud computers from D211](Lesson/connecting-to-cloud.md)
 4. [Exercise 11: River advection]()
 5. [Hints for Exercise 11](Lesson/hints.md)
